@@ -17,7 +17,6 @@ export function* mainSaga() {
 
     //@BlueprintReduxSagaMainInsertion
 EmailAuth18800Saga,
-CalendarView28799Saga,
     
   ]);
 }
